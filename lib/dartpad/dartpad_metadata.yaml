@@ -3,3 +3,4 @@ mode: flutter
 files:
   - name: main.dart
   - name: test.dart
+  - name: solution.dart
