@@ -3,3 +3,5 @@ mode: flutter
 files:
   - name: test.dart
   - name: solution.dart
+  - name: main.dart
+  - name: hint.txt
